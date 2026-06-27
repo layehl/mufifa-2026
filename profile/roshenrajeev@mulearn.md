@@ -107,6 +107,7 @@ Technologies and tools I regularly use:
 
 * Git & GitHub
 * ChatGPT
+* Visual Studio Code
 * Python
 * Figma
 * HTML 
@@ -115,8 +116,8 @@ Technologies and tools I regularly use:
 
 Currently exploring:
 
-* React
-* Node.js
+* Shodan
+* CTF'S
 * Docker
 * Cybersecurity tools
 * AI-assisted development
